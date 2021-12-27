@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="center" alt="HOH-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="HOH-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HOH-JavaScipt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="right" alt="HOH-pic" height="80" style="border-radius:50px;"
+  <img align="right" alt="HOH-pic" height="50" style="border-radius:50px;"
   src="https://www.flaticon.com/svg/vstatic/svg/3917/3917178.svg?token=exp=1640601276~hmac=487c90d8aceec2a408449108ac3d2452">
 </div><br/>
   
