@@ -1,4 +1,4 @@
-### Hi!I am Helder de Oliveira Harada<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+### * *Hi!I am Helder de Oliveira Harada* *<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 
 <!--
@@ -32,8 +32,8 @@ Here are some ideas to get you started:
   src="https://cdn-icons-png.flaticon.com/128/206/206597.png">
 </div><br/>
   
-  ###### Sabemos que Deus age em todas as coisas para o bem daqueles que o amam, dos que foram chamados de acordo com o seu propósito. 🙏 Romanos 8:28
-  ###### O temor do Senhor é o princípio do conhecimento, mas os insensatos desprezam a sabedoria e a disciplina. Provérbios 1:7
+  ###### * *Sabemos que Deus age em todas as coisas para o bem daqueles que o amam, dos que foram chamados de acordo com o seu propósito. 🙏 Romanos 8:28* *
+  ###### * *O temor do Senhor é o princípio do conhecimento, mas os insensatos desprezam a sabedoria e a disciplina. Provérbios 1:7* *
  
 
  
