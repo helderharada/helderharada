@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   src="https://cdn-icons-png.flaticon.com/128/206/206597.png">
 </div><br/>
   
-  ## Feliz 2022!
+  ##Sabemos que Deus age em todas as coisas para o bem daqueles que o amam, dos que foram chamados de acordo com o seu propósito. 🙏!
  
 
  
