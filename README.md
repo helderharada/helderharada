@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="HOH-JavaScipt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="right" alt="HOH-pic" height="50" style="border-radius:50px;"
   src="https://cdn-icons-png.flaticon.com/128/206/206597.png">  
-  <img align="right" alt="Python" height="50" style="border-radius:50px;"
+  <img align="left" alt="Python" height="50" style="border-radius:50px;"
   src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png">
 </div>
   
