@@ -33,11 +33,10 @@ Here are some ideas to get you started:
   src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png">
 </div>
   
-  ###### * *Sabemos que Deus age em todas as coisas para o bem daqueles que o amam, dos que foram chamados de acordo com o seu propósito. 🙏 Romanos 8:28* *
   ###### * *O temor do Senhor é o princípio do conhecimento, mas os insensatos desprezam a sabedoria e a disciplina. Provérbios 1:7* *
   
   ### * *Aprenda mais com os livros de programação : https://amzn.to/3CmBlj2* *
-  ### * *Proteja seus dados: https://www.facebook.com/LookForDataStorage/* *
+ 
  
 
  
