@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I am currently working in japan but not with IT.
-- 🌱 I'm currently learning python and javascript. And I already know css and html.
-- 👯 I try to collaborate fairly in all my work.
+-  I'm currently learning python and javascript. And I already know css and html.
+-  I try to collaborate fairly in all my work.
 - 🤔 I'm looking for help with learning the English language. Does anyone qualify? :)
 - 💬 Ask me about... I don't know, things I like. And I can do well.
 - 📫 How to reach me:
