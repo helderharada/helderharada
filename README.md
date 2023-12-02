@@ -4,7 +4,6 @@
 
 **helderharada/helderharada** my GitHub profile.
 
--  I'm currently learning python and javascript. And I already know css and html.
 - 📫 How to reach me:
       helder.o.harada@gmail.com
       
